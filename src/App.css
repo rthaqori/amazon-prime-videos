@@ -62,3 +62,7 @@ h3{
 button, a{
     cursor: pointer;
 }
+
+.nav{
+    position: relative;
+}
