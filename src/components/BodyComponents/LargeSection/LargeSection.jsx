@@ -15,6 +15,7 @@ const LargeSection = () => {
   const movieLists = shuffledMovies.map((list, index) => {
     return (
       <LargeCard
+        id={index}
         class="large_card"
         key={index}
         title={list.name}
@@ -22,6 +23,11 @@ const LargeSection = () => {
       />
     );
   });
+
+  const movieListIndex = shuffledMovies.map((list, index) => {
+    return <a href={`#${index}`}></a>;
+  });
+
   return (
     <section
       className={Styles.LargeSectionContainer}
@@ -32,6 +38,7 @@ const LargeSection = () => {
       </div>
 
       <div className={Styles.sectionContent}>{movieLists}</div>
+      <div className={Styles.movieListIndex}>{movieListIndex}</div>
     </section>
   );
 };

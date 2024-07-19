@@ -1,7 +1,6 @@
 .large_section_card {
-  height: 70vh;
   width: 100%;
-  aspect-ratio: 16/9;
+  height: 80vh;
   display: flex;
   flex-direction: column;
   scroll-snap-align: start;
@@ -13,7 +12,7 @@
 }
 
 .imageDiv img {
-  aspect-ratio: 16/9;
+  aspect-ratio: 21/9;
   width: 100%;
   object-fit: cover;
 }

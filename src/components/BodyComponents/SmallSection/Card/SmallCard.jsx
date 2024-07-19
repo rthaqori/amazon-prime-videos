@@ -1,13 +1,12 @@
 import React from "react";
 import Styles from "./SmallCardStyles.module.css";
-import img from "../../../../assets/The Boys.png";
 import Buttons from "../../Buttons";
 
 const SmallSectionCard = (props) => {
   return (
     <div className={Styles.small_section_card}>
       <div className={Styles.imageDiv}>
-        <img src={props.image} alt="small-section-card-image" />
+        <img src={props.image} alt={props.title} />
       </div>
       <div className={Styles.contentDiv}>
         <Buttons />

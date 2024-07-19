@@ -13,7 +13,14 @@ const MediumSection = () => {
   }, []);
 
   const movieLists = shuffledMovies.map((list, index) => {
-    return <MediumCard key={index} title={list.name} image={list.image[1]} />;
+    return (
+      <MediumCard
+        key={index}
+        title={list.name}
+        image1={list.image[1]}
+        image2={list.image[0]}
+      />
+    );
   });
   return (
     <section
