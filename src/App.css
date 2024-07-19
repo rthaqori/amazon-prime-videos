@@ -1,75 +1,84 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-:root{
-    --primary-color: rgb(255, 255, 255);
-    --secondary-color: rgba(15, 19, 29, 0.85);
-    --background-color: rgb(10,10,10);
+:root {
+  --primary-color: rgb(255, 255, 255);
+  --secondary-color: rgba(15, 19, 29, 0.85);
+  --background-color: rgb(10, 10, 10);
 }
 
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
 
-body{
-    background: var(--background-color);
-    font-weight: 300;
-    font-family: "Roboto", sans-serif;
-    height: 200vh;
+body {
+  background: var(--background-color);
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  height: 200vh;
 }
 
-li{
-    list-style: none;
+li {
+  list-style: none;
 }
 
-a, span{
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: 400;
+a,
+span {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
 }
 
-a,p,span{
-    font-size: 16px;
-    color: var(--primary-color);
+a,
+p,
+span {
+  font-size: 16px;
+  color: var(--primary-color);
 }
 
-h1,h2{
-    font-size: 20px;
-    font-weight: 700;
+h1,
+h2 {
+  font-size: 20px;
+  font-weight: 700;
 }
 
-h3{
-    font-size: 16px;
-    font-weight: 700;
+h3 {
+  font-size: 16px;
+  font-weight: 700;
 }
 
-.menu{
-    margin-right: auto;
+.menu {
+  margin-right: auto;
 }
 
-.searchContainerDiv{
-    margin-right: 5px;
+.searchContainerDiv {
+  margin-right: 5px;
 }
 
-.float{
-    margin-left: auto;
+.float {
+  margin-left: auto;
 }
 
-button, a{
-    cursor: pointer;
+button,
+a {
+  cursor: pointer;
 }
 
-.nav{
-    position: relative;
+.nav {
+  position: relative;
 }
 
-section > section{
-    margin-bottom: 2em;
-}   
+section > section {
+  margin-bottom: 2em;
+}
 
-.large_card{
-    flex: 1 0 100%;
+.large_card {
+  flex: 1 0 100%;
+}
+
+a.active {
+  background: #ffffff;
 }

@@ -9,6 +9,7 @@
   overflow: hidden;
   border: none;
   outline: none;
+  flex: 0 0 auto;
 }
 
 .imageDiv img {
@@ -29,6 +30,8 @@
     font-size: 50px;
     color: #fff;
     margin-bottom: 0.5em;
+    width: 500px;
+    white-space: wrap;
   }
 }
 
