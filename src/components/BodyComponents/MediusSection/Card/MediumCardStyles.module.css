@@ -1,0 +1,70 @@
+.small_section_card {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  scroll-snap-align: start;
+  height: 71vh;
+  position: relative;
+  border: none;
+  outline: none;
+}
+
+.imageDiv img {
+  aspect-ratio: 2/3;
+  width: 17.5em;
+  object-fit: cover;
+  border-radius: 0.5em;
+}
+
+.contentDiv {
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  row-gap: 0.5em;
+  padding: 0.15em 0.5em 0.25em;
+  position: absolute;
+  bottom: 0;
+  padding: 0 0 3em 4em;
+
+  h3 {
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 0.5em;
+  }
+}
+
+.small_section_card:hover .contentDiv {
+  display: flex;
+  animation: slideUp 0.4s forwards;
+}
+
+@keyframes slideUp {
+  from {
+    bottom: -20em;
+  }
+  to {
+    bottom: 0;
+  }
+}
+
+.small_section_card:hover .imageDiv img {
+  width: 46.75em;
+  aspect-ratio: 16/9;
+  transition: 0.2s;
+  transition-timing-function: cubic-bezier(0.32, 0, 0.67, 0);
+}
+
+.title {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  font-weight: 400;
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Inception",
+    "image": [
+      "https://c4.wallpaperflare.com/wallpaper/574/531/642/2010-inception-movie-inception-poster-wallpaper-preview.jpg",
+      "https://rukminim2.flixcart.com/image/832/832/l27wtjk0/poster/x/y/i/medium-inception-movie-hd-matte-finish-poster-butcutnw9954-original-imagdhw4azeedhbz.jpeg?q=70&crop=false"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=8hP9D6kZseM&ab_channel=BoxOfficeSmashers",
+    "description": "A skilled thief, the absolute best in the dangerous art of extraction, steals valuable secrets from deep within the subconscious during the dream state.",
+    "imdb_ratings": 8.8,
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "release_date": "2010-07-16",
+    "duration": "148 minutes",
+    "language": "English"
+  },
+  {
+    "id": 2,
+    "name": "The Dark Knight",
+    "image": [
+      "https://cdn.wallpapersafari.com/69/75/ptUGfC.jpg",
+      "https://m.media-amazon.com/images/I/61YPcrW44JS._SL1000_.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=EXeTwQWrcwY&ab_channel=RottenTomatoesClassicTrailers",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "imdb_ratings": 9.0,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "release_date": "2008-07-18",
+    "duration": "152 minutes",
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "name": "Interstellar",
+    "image": [
+      "https://images4.alphacoders.com/679/thumb-1920-679460.jpg",
+      "https://preview.redd.it/happy-9th-anniversary-to-interstellar-it-made-708m-on-a-v0-9a47srkfthyb1.jpg?width=1080&crop=smart&auto=webp&s=3f559832211ad739c51302de47c5e416789e9166"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=zSWdZVtXT7E&ab_channel=WarnerBros.UK%26Ireland",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "imdb_ratings": 8.6,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "release_date": "2014-11-07",
+    "duration": "169 minutes",
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "name": "The Shawshank Redemption",
+    "image": [
+      "https://vmndims.binge.com.au/api/v2/img/5e72adc1e4b09b84ec6be3c7-1584573892104?location=tile&imwidth=1280",
+      "https://m.media-amazon.com/images/I/71Gep+mJHNL._AC_SX679_.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=P9mwtI82k6E&ab_channel=HDRetroTrailers",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "imdb_ratings": 9.3,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"],
+    "release_date": "1994-09-22",
+    "duration": "142 minutes",
+    "language": "English"
+  },
+  {
+    "id": 5,
+    "name": "Pulp Fiction",
+    "image": [
+      "https://wallpapercave.com/wp/wp7665508.jpg",
+      "https://i.ebayimg.com/images/g/UEgAAOSwz3JewFyW/s-l960.webp"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=tGpTpVyI_OQ&ab_channel=Miramax",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "imdb_ratings": 8.9,
+    "genre": ["Crime", "Drama"],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis"
+    ],
+    "release_date": "1994-10-14",
+    "duration": "154 minutes",
+    "language": "English"
+  },
+  {
+    "id": 6,
+    "name": "The Godfather",
+    "image": [
+      "https://images5.alphacoders.com/131/thumb-1920-1315822.jpg",
+      "https://assets.gadgets360cdn.com/pricee/assets/product/202202/The-Godfather-poster_1644559794.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=UaVTIH8mujA&ab_channel=ParamountPictures",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imdb_ratings": 9.2,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"],
+    "release_date": "1972-03-24",
+    "duration": "175 minutes",
+    "language": "English"
+  },
+  {
+    "id": 7,
+    "name": "The Matrix",
+    "image": [
+      "https://popcult.blog/wp-content/uploads/2021/12/matrix-banner.png",
+      "https://c4.wallpaperflare.com/wallpaper/614/687/784/movies-matrix-movie-poster-poster-the-matrix-resurrections-hd-wallpaper-preview.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=vKQi3bBA1y8&ab_channel=RottenTomatoesClassicTrailers",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "imdb_ratings": 8.7,
+    "genre": ["Action", "Sci-Fi"],
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "release_date": "1999-03-31",
+    "duration": "136 minutes",
+    "language": "English"
+  },
+  {
+    "id": 8,
+    "name": "Fight Club",
+    "image": [
+      "https://cdn.wallpapersafari.com/13/9/S8RFsw.jpg",
+      "https://m.media-amazon.com/images/I/61IgtYrLF5L._AC_SY679_.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=qtRKdVHc-cE&ab_channel=RottenTomatoesClassicTrailers",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "imdb_ratings": 8.8,
+    "genre": ["Drama"],
+    "director": "David Fincher",
+    "cast": ["Brad Pitt", "Edward Norton", "Meat Loaf", "Zach Grenier"],
+    "release_date": "1999-10-15",
+    "duration": "139 minutes",
+    "language": "English"
+  },
+  {
+    "id": 9,
+    "name": "Forrest Gump",
+    "image": [
+      "https://lightbox-prod.imgix.net/images/assets/BANNER_LANDSCAPE_mac_10094307_D6C18272-2B85-46CB-A3669011F3DE709A.jpg",
+      "https://m.media-amazon.com/images/I/61F7SuvJ58L._AC_SY879_.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=bLvqoHBptjg&ab_channel=ParamountMovies",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+    "imdb_ratings": 8.8,
+    "genre": ["Drama", "Romance"],
+    "director": "Robert Zemeckis",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"],
+    "release_date": "1994-07-06",
+    "duration": "142 minutes",
+    "language": "English"
+  },
+  {
+    "id": 10,
+    "name": "The Lord of the Rings: The Return of the King",
+    "image": [
+      "https://lightbox-prod.imgix.net/images/assets/BANNER_WIDE_mac_94168_07028F13-6CBE-4EA8-83FE40D23876C529.jpg",
+      "https://m.media-amazon.com/images/I/81lD6R3Yu6L._AC_SL1304_.jpg"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=r5X-hFf6Bwo&ab_channel=Movieclips",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "imdb_ratings": 8.9,
+    "genre": ["Action", "Adventure", "Drama"],
+    "director": "Peter Jackson",
+    "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen", "Orlando Bloom"],
+    "release_date": "2003-12-17",
+    "duration": "201 minutes",
+    "language": "English"
+  }
+]

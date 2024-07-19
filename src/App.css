@@ -4,22 +4,21 @@
     box-sizing: border-box;
 }
 
-/* :root{
+:root{
     --primary-color: rgb(255, 255, 255);
     --secondary-color: rgba(15, 19, 29, 0.85);
-    --background-color: rgba(0, 0, 0);
-} */
+    --background-color: rgb(10,10,10);
+}
 
 html{
     scroll-behavior: smooth;
 }
 
 body{
-    /* background: var(--background-color); */
+    background: var(--background-color);
     font-weight: 300;
     font-family: "Roboto", sans-serif;
     height: 200vh;
-    background-color: #dadada;
 }
 
 li{
@@ -65,4 +64,12 @@ button, a{
 
 .nav{
     position: relative;
+}
+
+section > section{
+    margin-bottom: 2em;
+}   
+
+.large_card{
+    flex: 1 0 100%;
 }

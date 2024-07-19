@@ -1,0 +1,59 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5em;
+}
+
+.verified {
+  display: flex;
+  column-gap: 0.5em;
+  align-items: center;
+
+  p {
+    aspect-ratio: 1;
+    width: 20px;
+    background: #fff;
+    border-radius: 50%;
+  }
+
+  span {
+    font-size: 1em;
+    font-weight: 700;
+    color: #fff;
+  }
+}
+
+.btnDiv {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5em;
+
+  span {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0.5em;
+    cursor: pointer;
+  }
+}
+
+button {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.addWatchListBtn,
+.detailsBtn {
+  width: 45px;
+}
+
+.playBtn {
+  width: 55px;
+}
+
+button:hover {
+  scale: 1.15;
+  transition: 0.2s ease;
+}
